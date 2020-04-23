@@ -1,0 +1,15 @@
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.deps.json
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.runtimeconfig.json
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.runtimeconfig.dev.json
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.dll
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.pdb
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.xml
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.csprojAssemblyReference.cache
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.csproj.CoreCompileInputs.cache
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.RazorAssemblyInfo.cache
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.RazorAssemblyInfo.cs
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.AssemblyInfoInputs.cache
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.AssemblyInfo.cs
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.RazorTargetAssemblyInfo.cache
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.dll
+C:\Users\amani\Downloads\WebApplication7-1\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.pdb
